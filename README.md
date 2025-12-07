@@ -1,7 +1,7 @@
 # Hi, I'm Mohammadali Ghaemifar 👋  
 Control Systems • Robotics • Deep Reinforcement Learning • Indoor Positioning
 
-I work at the intersection of **nonlinear control**, **teleoperation**, **deep RL**, and **localization**.  
+I work at the intersection of **adaptive & nonlinear control**, **teleoperation**, **deep RL**, and **localization**.  
 My research focuses on building robust, learning-based controllers for uncertain robotic systems and perception-driven navigation.
 
 ---
