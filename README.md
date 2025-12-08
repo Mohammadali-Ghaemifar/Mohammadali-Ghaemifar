@@ -1,10 +1,10 @@
-# Hi, I'm Mohammadali Ghaemifar 👋  
+# Hi, I'm Mohammadali Ghaemifar   
 Control Systems • Robotics • Deep Reinforcement Learning • Indoor Positioning
 
 I work at the intersection of **adaptive & nonlinear control**, **teleoperation**, **deep RL**, and **localization**.  
 My research focuses on building robust, learning-based controllers for uncertain robotic systems and perception-driven navigation.
 
----
+
 
 ## 🔧 Research Interests  
 - Nonlinear & Adaptive Control  
@@ -15,7 +15,7 @@ My research focuses on building robust, learning-based controllers for uncertain
 - Sensor Fusion, EKF, SLAM  
 - BEV (Bird’s-Eye-View) perception & camera-based spatial understanding  
 
----
+
 
 ## 📚 Selected Publications  
 
@@ -38,14 +38,14 @@ My research focuses on building robust, learning-based controllers for uncertain
   ICRoM 2023 — Adaptive teleoperation under delay + formation constraints.
  
 
----
+
 
 ## 📬 Contact  
 **Email:** Alighaemifar@gmail.com  
 **Google Scholar:** https://scholar.google.com/citations?hl=en&user=SgFJx0kAAAAJ  
 **LinkedIn:** https://www.linkedin.com/in/mohammadali-ghaemifar
 
----
+
 
 Thanks for visiting my profile!  
 If you're working on RL for control, teleoperation, or navigation, feel free to connect.
