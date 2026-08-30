@@ -4,7 +4,9 @@ Control Systems • Robotics • Deep Reinforcement Learning • Indoor Position
 I work at the intersection of **adaptive & nonlinear control**, **teleoperation**, **deep RL**, and **localization**.  
 My research focuses on building robust, learning-based controllers for uncertain robotic systems and perception-driven navigation.
 
+## Research affiliation
 
+Research Member at [Lenna Robotics Research Lab](https://github.com/Lenna-Robotics-Research-Lab), working on autonomous mobile robotics, safe control, ROS 2, teleoperation, and learning-based control.
 
 ## 🔧 Research Interests  
 - Nonlinear & Adaptive Control  
